@@ -16,4 +16,4 @@
 
 <h3> Visitor count : </h3>
 
-![Visitor Count](https://profile-counter.glitch.me/hanzopgp/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ThomasLeconte/count.svg)
