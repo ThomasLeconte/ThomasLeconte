@@ -13,6 +13,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+![ThomasLeconte's github stats](https://github-readme-stats.vercel.app/api?username=ThomasLeconte&show_icons=true&hide_border=true&theme=dark)
 
 <h3> Visitor count : </h3>
 
