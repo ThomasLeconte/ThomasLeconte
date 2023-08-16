@@ -3,18 +3,17 @@
 
 
 # About me
-- 🔭 http://thomas-leconte-dev.me/portfolio/
+- 🔭 [My portfolio](https://bastdev.eu/)
 - 🌱 Junior Full-Stack Dev'
 - 📫 How to reach me: thomasleconte05@gmail.com
 - 😄 Pronouns: Toto 😎
-- ⚡ Fun fact: fanboy of SpaceX
+- ⚡ Fun fact: Sometimes I make unit tests 👀 ...
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=ThomasLeconte&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThomasLeconte&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ThomasLeconte&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=ThomasLeconte&theme=gruvbox_light&hide_border=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasLeconte&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # Visitors count
