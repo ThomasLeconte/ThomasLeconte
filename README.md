@@ -3,7 +3,7 @@
 
 
 # About me
-- 🔭 [My portfolio](https://bastdev.eu/)
+- 🔭 [My portfolio](https://thomas-leconte.fr)
 - 🌱 Junior Full-Stack Dev'
 - 📫 How to reach me: thomasleconte05@gmail.com
 - 😄 Pronouns: Toto 😎
