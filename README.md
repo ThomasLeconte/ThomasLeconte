@@ -13,8 +13,3 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=ThomasLeconte&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=ThomasLeconte&theme=gruvbox_light&hide_border=false&layout=compact)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasLeconte&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
-
-# Visitors count
-[![](https://visitcount.itsvg.in/api?id=ThomasLeconte&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
